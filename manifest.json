@@ -15,8 +15,8 @@
     "default_title": "NUX CloudApp Copy"
   },
   "permissions": [
-    "https://*/*",
-    "http://*/*",
+    "http://cl.ly/*",
+    "https://cl.ly/*",
     "tabs",
     "storage",
     "clipboardWrite"
