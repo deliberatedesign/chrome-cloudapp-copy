@@ -1,0 +1,10 @@
+var copy_input_id = '_copy_input_128578';
+var cloud_app_image = document.getElementById('drop-image');
+var cloud_app_src = cloud_app_image.src;
+var copy_input = document.createElement("input");
+    copy_input.setAttribute('type', 'text');
+    copy_input.setAttribute('value', cloud_app_src);
+    copy_input.setAttribute('id', copy_input_id);
+    document.body.appendChild(copy_input);
+    copy_input.select();
+    document.execCommand('copy');
