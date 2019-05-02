@@ -1,6 +1,29 @@
-# Chrome-extension
-Chrome extension to grab image URLs. developed for IB CS 1-2
+# NUX CloudApp Copy
+Click extension icon to copy CloudApp Image source to paste into Connect
 
-This extension was designd to show that I can make a chrome extension that can do "something".
+## Install
+In Chrome Web Store as unlisted extension.
 
-What this extension does is grab all the image's URLs on the page.
+https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkfaekhg
+
+
+## New Release
+
+#### 1. Update version in manifest.json
+```
+# manifest.json
+
+{
+    ...
+    "version": "0.0.2",
+    ...
+}
+```
+
+#### 2. Create a zip folder
+Create a zip folder of the extension *excluding the .git folder*
+
+#### 3. Upload new version in Webstore Dashboard and Publish
+`username: nitroux.extensions@gmail.com`
+
+https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4
