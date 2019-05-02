@@ -33,5 +33,8 @@ Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboa
 
 ## Release notes
 
+#### Release [0.0.3](https://github.com/deliberatedesign/chrome-cloudapp-copy/commit/2bd4afda8ab2d36c3b886a8964de0dd72ec10525)
+* Add support for custom domains
+
 #### Release [0.0.2](https://github.com/deliberatedesign/chrome-cloudapp-copy/commit/2518f5eaf69b00ceace70611cb0744245f4b7fab)
 * Remove reference to options in manifest.json
