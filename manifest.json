@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "NUX CloudApp Copy",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minimum_chrome_version": "70.0",
   "description": "Copy CloudApp image source",
   "author": "Nitro UX",
@@ -15,8 +15,10 @@
     "default_title": "NUX CloudApp Copy"
   },
   "permissions": [
-    "http://*/*",
-    "https://*/*",
+    "http://cl.ly/*",
+    "https://cl.ly/*",
+    "http://*.jasoncypret.com/*",
+    "https://*.jasoncypret.com/*",
     "tabs",
     "storage",
     "clipboardWrite"
