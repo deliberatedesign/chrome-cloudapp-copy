@@ -6,9 +6,7 @@ Click extension icon to copy CloudApp Image source to paste into Connect
 ---
 
 ## Install
-In Chrome Web Store as unlisted extension.
-
-https://chrome.google.com/webstore/detail/nux-cloudapp-copy/ccmfpkfbnnmohcpclcljdplnijaheooj
+In Chrome Web Store as unlisted extension, [NUX CloudApp Copy](https://chrome.google.com/webstore/detail/nux-cloudapp-copy/ccmfpkfbnnmohcpclcljdplnijaheooj)
 
 
 ## New Release
@@ -28,6 +26,6 @@ https://chrome.google.com/webstore/detail/nux-cloudapp-copy/ccmfpkfbnnmohcpclclj
 Create a zip folder of the extension *excluding the .git folder*
 
 #### 3. Upload new version in Webstore Dashboard and Publish
-`username: nitroux.extensions@gmail.com`
 
-https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4
+Go to [Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard/g15145575285257363436?hl=en-US&gl=US&authuser=4) 
+`username: nitroux.extensions@gmail.com`
