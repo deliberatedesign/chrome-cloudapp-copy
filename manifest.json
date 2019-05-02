@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "NUX CloudApp Copy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimum_chrome_version": "70.0",
   "description": "Copy CloudApp image source",
   "author": "Nitro UX",
@@ -21,11 +21,6 @@
     "storage",
     "clipboardWrite"
   ],
-  "options_page": "options.html",
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": true
-  },
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
