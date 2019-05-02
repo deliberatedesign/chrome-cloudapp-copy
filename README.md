@@ -4,7 +4,7 @@ Click extension icon to copy CloudApp Image source to paste into Connect
 ## Install
 In Chrome Web Store as unlisted extension.
 
-https://chrome.google.com/webstore/detail/nux-launch/acemojpjebbponbogmcgeihfjkfaekhg
+https://chrome.google.com/webstore/detail/nux-cloudapp-copy/ccmfpkfbnnmohcpclcljdplnijaheooj
 
 
 ## New Release
