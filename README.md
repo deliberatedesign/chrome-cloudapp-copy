@@ -1,6 +1,10 @@
 # NUX CloudApp Copy
 Click extension icon to copy CloudApp Image source to paste into Connect
 
+![](https://lh3.googleusercontent.com/poAXUPc4DKDMhHR6vY6wNioPrdtcXs4UyFSPCqkPoA4Zrx0YArzYJFEL2wQVYb6O7147Hvt5=w640-h400-e365)
+
+---
+
 ## Install
 In Chrome Web Store as unlisted extension.
 
